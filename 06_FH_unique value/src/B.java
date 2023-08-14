@@ -1,0 +1,19 @@
+import java.io.FileReader;
+public class B {
+
+	public static void main(String[] args) {
+		
+		try {
+			FileReader fileReader=new FileReader("C://12pm//t3.txt");
+			System.out.println((char)fileReader.read());
+			System.out.println((char)fileReader.read());
+			System.out.println((char)fileReader.read());
+			System.out.println((char)fileReader.read());
+			System.out.println((char)fileReader.read());
+			System.out.println((char)fileReader.read());
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}

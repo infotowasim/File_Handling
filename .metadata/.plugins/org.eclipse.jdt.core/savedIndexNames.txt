@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+C:\Preatice File Handling\.metadata\.plugins\org.eclipse.jdt.core
+1963828558.index
+1923500590.index
+3070277433.index
+2022579559.index
+2490361771.index
+2656569083.index
+3212563806.index
+4003862656.index
+3322994243.index
+4105725337.index
+1479356009.index

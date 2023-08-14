@@ -1,0 +1,8 @@
+
+public class A {
+	String name="abc";
+	String city="xyz";
+	
+	
+
+}
